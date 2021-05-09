@@ -8,7 +8,7 @@ I´m a highly motivated and engaging pre-sales engineer with a proven track of s
   
 I´m since 35+ years in the software industry and have worked for different software vendors as sales engineer, senior consultant and engagement manager. I´ve answered successfully hundreds of RfPs for tool evaluations and led many tool evaluations for source code control, requirements management, test management, test automation and ALM tools.  
   
-[Find me on LinkedIn](linkedin.com/in/kochloefl)  
+[Find me on LinkedIn](http://www.linkedin.com/in/kochloefl)  
 [Follow my Testblog](http://www.kochloefl.de/testblog/)  
 [Software Tool Evaluation](http://www.kochloefl.de/software-tool-evaluation/)  
 [Low Code Tool Evaluation German](http://www.kochloefl.de/low-code-evaluation/)  
